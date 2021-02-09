@@ -1,10 +1,4 @@
 ---
-title:  "My first blog"
+title: "My first blog post"
 date: 2021-02-08
 ---
-
-# Welcome
-
-**Hello world**, this is my first blog post.
-
-I hope you like it!
